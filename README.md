@@ -3,7 +3,7 @@
 To run, initialize a `DualRagModel` instance as follows:
 `model = DualRagModel()`
 
-Logging and generator models can be changed (see comments in code).
+Logging and generator models can be changed (see documentation in code).
 
 To submit queries, use the `generate_response` method:
 `user_query = "who shot the uhc ceo"`
